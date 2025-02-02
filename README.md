@@ -2,6 +2,8 @@
 
 By Heart is a simple web app for creating and studying flashcards. With this app, users can create flashcard decks, add questions and answers, and review their decks to help memorize information.
 
+This is an old project that I made with a group, but would like to improve on my own. I will use it as a learning experience and make it into something that I am proud of. 
+
 ## Features
 
 - **Create Decks**: Organize flashcards into various decks.
@@ -15,7 +17,7 @@ By Heart is a simple web app for creating and studying flashcards. With this app
 First, clone the repository to your local machine. You can do this using `git`:
 
 ```bash
-git clone https://github.com/your-username/ByHeart.git
+git clone https://github.com/your-username/byheart.git
 ```
 
 ### 2. Install Dependencies
@@ -41,7 +43,7 @@ Open a separate terminal and run the client (frontend):
 npm run client
 ```
 
-Visit ```http://localhost:3000``` in your browser to interact with the app.
+Visit ```http://localhost:3000``` or whatever port you are hosting on in your browser to interact with the app.
 
 ## Contributing
 
