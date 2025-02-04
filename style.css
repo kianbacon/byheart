@@ -9,12 +9,18 @@
 html{
     height: -webkit-fill-available;
 }
+
+/* logos */
 .fa-brands{
     color:#fbfbfb;
 }
+
+/* background */
 body{
-    background-color: #0f4471;
+    background-color: #fbfbfb;
 }
+
+/* header */
 .topbar{
     width: 120%;
     background-color: #924DBF;
@@ -22,9 +28,11 @@ body{
     top: 0;
     border-bottom: 2px solid rgb(0, 0, 0);
 }
+
+/* background of each section */
 .section{
     color: #fbfbfb;
-    background-color: #1a2849;
+    background-color: #111111;
     border: 2px solid rgba(0, 0, 0, 0.5);
     border-radius: 20px;
     margin: 40px auto;
@@ -39,15 +47,17 @@ body{
     column-gap: 40px;
     padding-bottom: 40px;
 }
+
+/* border of image */
 img{
     margin: 20px;
-    border: 10px solid #0f4471;
+    border: 10px solid #924DBF;
     border-radius: 50%;
 }
 .logo{
     display: flex;
-    justify-content: right;
-    max-width: 100%;
+    justify-content: normal;
+    max-width: 50%;
 }
 .text{
     display: flex;
